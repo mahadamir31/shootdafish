@@ -23,7 +23,7 @@ fishinabarrel_20260430-024157_archive/
 |   `-- sprites/
 |-- Fish in a Barrel Setup 1.0.0.exe
 |-- Fish in a Barrel-1.0.0.dmg
-`-- docs/
+`-- documentation.md
 ```
 
 ## Ways to Run the App
