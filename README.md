@@ -5,7 +5,7 @@ Fish in a Barrel is a microStudio game written in microScript. You control a fis
 ## Project Contents
 
 ```text
-fishinabarrel_20260430-024157_archive/
+shootdafish
 |-- project.json
 |-- ms/
 |   |-- main.ms
@@ -13,17 +13,16 @@ fishinabarrel_20260430-024157_archive/
 |   |-- models/
 |   |-- screens/
 |   |-- services/
-|   `-- ui_utils/
+|   |-- ui_utils/
 |-- sprites/
 |-- fishinabarrel/
 |   |-- index.html
 |   |-- microengine.js
 |   |-- program.js
 |   |-- manifest.json
-|   `-- sprites/
-|-- Fish in a Barrel Setup 1.0.0.exe
-|-- Fish in a Barrel-1.0.0.dmg
-`-- documentation.md
+|   |-- sprites/
+|-- documentation.md
+
 ```
 
 ## Ways to Run the App
