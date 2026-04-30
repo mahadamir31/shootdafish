@@ -21,7 +21,6 @@ shootdafish
 |   |-- program.js
 |   |-- manifest.json
 |   |-- sprites/
-|-- documentation.md
 
 ```
 
