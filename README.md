@@ -32,9 +32,7 @@ fishinabarrel_20260430-024157_archive/
 
 Use this option when you want to edit or run the original microStudio project.
 
-1. Open the microStudio website.
-2. Import or open the project using `project.json` and the `ms/` and `sprites/` folders.
-3. Run the project from the microStudio editor/player.
+https://microstudio.dev/i/jimbalaja/fishinabarrel/
 
 This is the best option for development because it uses the original microScript source files.
 
@@ -42,7 +40,7 @@ This is the best option for development because it uses the original microScript
 
 Use this option when you want to play the exported browser version.
 
-Open:
+Unzip and Open:
 
 ```text
 fishinabarrel/index.html
@@ -52,7 +50,7 @@ If the browser blocks local files or assets, run the folder with a small local w
 
 ### 3. Run on Windows
 
-Use the Windows installer at the project root:
+Use the Windows installer at the project root under Github Releases:
 
 ```text
 Fish in a Barrel Setup 1.0.0.exe
@@ -62,7 +60,7 @@ Run the installer, then launch Fish in a Barrel from the installed app shortcut 
 
 ### 4. Run on macOS
 
-Use the macOS disk image at the project root:
+Use the macOS disk image at the project root under Github Releases:
 
 ```text
 Fish in a Barrel-1.0.0.dmg
