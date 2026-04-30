@@ -88,15 +88,8 @@ Open the DMG, install or drag the app as prompted, then launch Fish in a Barrel 
 - `sprites/`: source sprite assets used by the microStudio project.
 - `fishinabarrel/`: exported web build assets.
 
-## Documentation
-
-More detailed documentation is available in:
-
-- `docs/documentation.md`: file-by-file source explanation.
-- `docs/file_explanations.md`: detailed explanations with class-style diagrams.
-
 ## Notes
 
-- The project is built around microStudio's `init()`, `update()`, and `draw()` lifecycle.
+- The project is built around `init()`, `update()`, and `draw()` lifecycle.
 - Settings and best-time data are stored locally through microStudio storage.
 - The exported `fishinabarrel/` folder should be treated as a complete web build; moving only `index.html` may break assets.
